@@ -1,4 +1,4 @@
-FROM swampup301.jfrog.io/urs-docker/python:3.9.5-slim-buster
+FROM wilsonj.jfrog.io/urs-docker/python:3.9.5-slim-buster
 
 WORKDIR  /var/opt/webapp
 
