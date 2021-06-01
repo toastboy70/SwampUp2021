@@ -115,7 +115,7 @@ pipelines:
             - name: lab2_src_dockerfile_webapp_python
             - name: lab2_fs_webapp_python
           integrations:
-            - name: artifactory_eu
+            - name: artifactory_docker
 #            - name: artifactory_docker
         execution:
           onStart:
